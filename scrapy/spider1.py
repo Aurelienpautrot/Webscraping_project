@@ -3,6 +3,7 @@ from scrapy import Selector
 from urllib import request
 import pandas as pd
 
+#choose the number of pages to scrape
 nb_page = 101
 
 #define the item link
