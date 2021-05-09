@@ -1,6 +1,6 @@
 # Webscraping_project
 
-For BeautifulSoup scraper : "python soup.py" in command line
+* For BeautifulSoup scraper : "python soup.py" in command line
 
 For Selenium scraper : "python sele.py" in command line
 
